@@ -1,0 +1,15 @@
+img {
+    width: 100%; /* Ubah ukuran gambar menjadi 80% dari lebar halaman */
+    height: auto; /* Pertahankan rasio aspek gambar */
+    display: block;
+    margin-left: auto;
+    margin-right: auto; /* Agar gambar berada di tengah */
+}
+
+img {
+    width: 600px; /* Atur lebar gambar menjadi 600px */
+    height: auto; /* Pertahankan rasio aspek gambar */
+    display: block;
+    margin-left: auto;
+    margin-right: auto; /* Agar gambar berada di tengah */
+}
